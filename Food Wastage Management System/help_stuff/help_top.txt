@@ -1,0 +1,22 @@
+
+First, select the name of the user of the program from the drop-down box at the top of the screen. Then choose among the available activities by clicking on one of the following buttons:
+
+CALCULATE WASTAGE
+Produce a report of unexplained food wastage between two previously recorded inventory dates by clicking on this button.
+
+DELIVERIES / SPOILAGE
+Incoming shipments of food or items spoiled by deterioration from age or accidents should be recorded whenever they occur by clicking on this button.
+
+SALES BY MENU ITEM
+Click this button to record the number of each menu item sold during each day.
+
+ENDING INVENTORY
+Click on the inventory button to record a complete periodic inventory of the food stock in the restaurant.
+
+MENU ITEM RECIPE
+Click on this button to record the quantity of each ingredient in each of the items on the restaurant menu.
+
+NAMES FOR FOOD, MENU ITEMS, PEOPLE
+Manage the names associated with users, food items and menu items by clicking on this button.
+
+At the completion of each activity, you are returned to this screen. Click on another activity or click on one of the exit buttons at the bottom of the screen. The button on the bottom left exits the program updating the files with the data entered by the user. The button to its right exits the program without writing anything to the disk. Thus, all the data entered by the user in the current program run is lost. (Note: Nothing is ever written to the disk in demo mode so there is only one exit button in demo mode.)

@@ -1,0 +1,8 @@
+
+In the first line below the table, click on delivery to record food shipments received or spoilage to record food that must be discarded because of deterioration from age or accidents.
+
+To add an entry to the table, choose the relevant food item from the appropriate drop-down box. (In this prototype, the only food category implemented is "other". Production versions of the program intended for restaurants stocking upwards of 150 items will need all five categories.) Enter the relevant quantity and, in the case of deliveries, cost per unit. Then click on the add button. 
+
+To delete an entry from the table, click on the entry to highlight it and then click on the delete button.
+
+When finished entering the deliveries or the spoilage, click on the record-and-return button at the bottom of the screen.

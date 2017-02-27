@@ -1,0 +1,10 @@
+
+This screen is used to enter the recipes (i.e., the quantity of each food ingredient) for the items on the menu. Start by selecting a menu item name from the drop-down box at the top left of the screen.
+
+Then select an ingredient from the drop-down boxes immediately below the table. (Note that only the "other" category drop-down box is active in this prototype. Production versions of the program for use with restaurants stocking upwards of 150 items will support all five categories.) The program automatically shows the correct unit of measure for the ingredient on the line below the drop boxes. Type the quantity for the ingredient in the quantity field. Then click the add-to-recipe button.
+
+To change the quantity for an ingredient, type the new quantity in the quantity field. Then click on the ingredient in the table to highlight it and click on the change quantity button.
+
+To delete an ingredient in the table, click to highlight it and then click on the delete button.
+ 
+When finished editing a recipe, select another menu item for editing using the drop-down box at the top left of the screen or click on the finished-editing button at the lower left of the screen.

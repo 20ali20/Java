@@ -1,0 +1,9 @@
+
+Use this screen to record daily sales by menu item using data obtained from the restaurant's cash register system or equivalent.
+
+Start by selecting a menu item from the drop-down box on the lower left side of the screen. Enter the quantity sold for the menu item in the field at the right of the drop-down box. Then click the add button. 
+
+To delete an entry in the table, click on the relevant line in the table to highlight it. Then click on the delete button on the right side of the screen. To change the quantity in a table entry, enter the new quantity in the field to the right of the drop-down box. Then click on the line in the table which needs to be changed, and finally click on the change button.
+
+When finished entering the sales, click on the record-sales-and-return button.
+

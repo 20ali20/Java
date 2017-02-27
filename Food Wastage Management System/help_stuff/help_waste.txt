@@ -1,0 +1,5 @@
+
+To view a wastage report, select the starting and ending inventory dates by clicking on the appropriate drop-down boxes. Then click on the calculate-wastage button.
+
+Repeat this process to view other starting and ending dates for the report. When finished, click on return-to-main-screen.
+

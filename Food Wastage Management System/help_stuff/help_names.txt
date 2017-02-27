@@ -1,0 +1,11 @@
+
+
+Choose the table for which you want to enter or delete data -- food items, menu items, or program users. (Note that the table for authorized-units (i.e., units of measure for food) is inactive. The program currently supports only "cnt" for count (e.g., the count of the actual number of doughnuts in inventory), "gal" for gallons, and "lbs" for pounds. Future versions may allow additional units of measure.)
+
+To add a new name to the food item table, type the name in the food item field directly below the table. Enter the correct unit of measure from the unit drop-down box. Enter the correct food category from the cat drop-down box. (Future versions of the program for use in restaurants with more than 150 food items will support five categories -- meat/seafood, fruits/vegetables, desserts, beverages, and other. The current prototype is not likely to be used in demonstrations with more than 20 items so it implements only the "other" category.) To delete a food item from the table, click on the entry in the table and then click on the delete button.
+
+To add a new item to the restaurant menu, type the new name in the field directly below the table. You also must type in the price for the item. Then click on the add button. To delete an entry, click on the line in the table and then click on the delete button. (Do not forget to use the separate menu item recipe screen to provide the ingredients used in the new menu item.)
+
+To add and delete the names of authorized users of this program, follow the same approach as described above with the relevant table. Note that the program will not permit you to delete the name of the individual actually using the program.
+
+When finished, click on the finished-managing-names button at the bottom of the screen.

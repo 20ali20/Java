@@ -1,0 +1,4 @@
+
+                                       ************ TO BE DETERMINED ************
+
+This help screen is a placeholder for the version to be developed based on user testing. The user tests will determine areas of user confusion related to the screen whose Help button you pressed. Thus, the help screen content will be tuned to address the specific areas where users need additional guidance.
